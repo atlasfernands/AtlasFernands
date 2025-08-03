@@ -17,13 +17,49 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e aprender novas
 
 ### 📊 Estatísticas do GitHub:
 
-![Estatísticas do Atlas Fernands](https://github-readme-stats.vercel.app/api?username=atlasfernands&show_icons=true&theme=radical&hide_border=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=atlasfernands&layout=compact&theme=radical&hide_border=true)
+<table>
+  <tr>
+    <td width="50%">
+      <h4 align="center">📈 Minhas Estatísticas</h4>
+      <p align="center">
+        Aqui você pode ver meu progresso no GitHub, incluindo commits, pull requests, issues e muito mais. 
+        Estou sempre ativo desenvolvendo projetos e contribuindo para a comunidade open source!
+      </p>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=atlasfernands&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do Atlas Fernands" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4 align="center">💻 Linguagens Mais Usadas</h4>
+      <p align="center">
+        Estas são as linguagens de programação que mais utilizo nos meus projetos. 
+        JavaScript e Python são minhas principais ferramentas, mas estou sempre aprendendo novas tecnologias!
+      </p>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atlasfernands&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
+    </td>
+  </tr>
+</table>
 
 ### 🏆 Conquistas:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=atlasfernands&theme=radical&hide_border=true)
+<table>
+  <tr>
+    <td width="50%">
+      <h4 align="center">🔥 GitHub Streak</h4>
+      <p align="center">
+        Manter consistência é fundamental! Este é meu streak de commits diários no GitHub. 
+        Estou comprometido em codificar regularmente e contribuir para projetos interessantes.
+      </p>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=atlasfernands&theme=radical&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ### 🎯 Projetos em Destaque:
 
