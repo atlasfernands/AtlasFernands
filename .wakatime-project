@@ -1,0 +1,31 @@
+# Configuração do projeto Atlas Fernands
+# Este arquivo permite que o WakaTime rastreie o tempo de codificação neste projeto
+
+# Nome do projeto
+name: Atlas Fernands Portfolio
+
+# Linguagens principais do projeto
+languages:
+  - JavaScript
+  - TypeScript
+  - Python
+  - Java
+  - C++
+  - HTML
+  - CSS
+  - SQL
+
+# Frameworks utilizados
+frameworks:
+  - React
+  - Node.js
+  - Express
+  - Django
+  - Spring
+
+# Ferramentas de desenvolvimento
+tools:
+  - VS Code
+  - Git
+  - GitHub
+  - Docker 

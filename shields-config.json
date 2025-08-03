@@ -1,0 +1,25 @@
+{
+  "badges": {
+    "profile": {
+      "github_stats": "https://img.shields.io/badge/GitHub%20Stats-Atlas%20Fernands-blue?style=for-the-badge&logo=github",
+      "linkedin": "https://img.shields.io/badge/LinkedIn-Atlas%20Fernands-blue?style=for-the-badge&logo=linkedin",
+      "twitter": "https://img.shields.io/badge/Twitter-@atlasfernands-blue?style=for-the-badge&logo=twitter"
+    },
+    "technologies": {
+      "javascript": "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black",
+      "typescript": "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white",
+      "react": "https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black",
+      "nodejs": "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white",
+      "python": "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white",
+      "java": "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white",
+      "cpp": "https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white",
+      "mysql": "https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
+    },
+    "stats": {
+      "github_stats": "https://github-readme-stats.vercel.app/api?username=atlasfernands&show_icons=true&theme=radical&hide_border=true",
+      "top_langs": "https://github-readme-stats.vercel.app/api/top-langs/?username=atlasfernands&layout=compact&theme=radical&hide_border=true",
+      "streak": "https://github-readme-streak-stats.herokuapp.com/?user=atlasfernands&theme=radical&hide_border=true",
+      "profile_views": "https://komarev.com/ghpvc/?username=atlasfernands&style=flat-square&color=blue"
+    }
+  }
+} 
