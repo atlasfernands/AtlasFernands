@@ -47,51 +47,22 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e aprender novas
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 📊 Estatísticas do GitHub:
+### 📊 Estatísticas do GitHub
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4 align="center">📈 Minhas Estatísticas</h4>
-      <p align="center">
-        Aqui você pode ver meu progresso no GitHub, incluindo commits, pull requests, issues e muito mais. 
-        Estou sempre ativo desenvolvendo projetos e contribuindo para a comunidade open source!
-      </p>
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=atlasfernands&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do Atlas Fernands" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4 align="center">💻 Linguagens Mais Usadas</h4>
-      <p align="center">
-        Estas são as linguagens de programação que mais utilizo nos meus projetos. 
-        JavaScript e Python são minhas principais ferramentas, mas estou sempre aprendendo novas tecnologias!
-      </p>
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atlasfernands&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=atlasfernands&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atlasfernands&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
 
-### 🏆 Conquistas:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atlasfernands&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4 align="center">🔥 GitHub Streak</h4>
-      <p align="center">
-        Manter consistência é fundamental! Este é meu streak de commits diários no GitHub. 
-        Estou comprometido em codificar regularmente e contribuir para projetos interessantes.
-      </p>
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=atlasfernands&theme=radical&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+### 🏆 Conquistas
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=atlasfernands&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
 
 ### 🎯 Projetos em Destaque:
 
@@ -180,29 +151,11 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e aprender novas
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA326?style=flat-square&logo=gitlab&logoColor=white)
 </details>
 
-### 📈 Atividade Recente:
+### 📈 Atividade Recente
 
-<!--START_SECTION:waka-->
-**Eu sou um desenvolvedor dedicado** 🚀
-
-*💻 Linguagens mais usadas:*
-
-* JavaScript (40.2%)
-* Python (25.1%)
-* TypeScript (15.8%)
-* Java (10.5%)
-* C++ (8.4%)
-
-*🛠️ Ferramentas mais usadas:*
-
-* VS Code (35.2%)
-* IntelliJ IDEA (20.1%)
-* PyCharm (15.8%)
-* Terminal (12.5%)
-* Postman (8.4%)
-
-*📅 Última atividade: Hoje*
-<!--END_SECTION:waka-->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atlasfernands&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
 
 ### 🤝 Vamos Conectar!
 
