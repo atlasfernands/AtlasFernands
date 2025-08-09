@@ -4,6 +4,38 @@
 
 Sou um desenvolvedor apaixonado por criar soluções inovadoras e aprender novas tecnologias. Atualmente focado em desenvolvimento web e mobile, sempre buscando aprimorar minhas habilidades e contribuir para projetos interessantes.
 
+### 🌙 Destaque Atual — Moonlight Logger
+
+> Um sistema inteligente de logging para aplicações Node.js, com análise automática e painel web dark mode — em tempo real via Socket.IO.
+
+- Clareza para debugging: registrar, entender e agir sobre logs rapidamente
+- Análise automática (tags e sugestões)
+- Tempo real: novos logs aparecem instantaneamente
+- UI dark inspirada na vibe "Filho da Lua"
+
+<p>
+  <a href="https://github.com/atlasfernands/moonlight-logger" target="_blank">
+    <img src="https://img.shields.io/badge/Repo-Moonlight%20Logger-000000?style=for-the-badge&logo=github&logoColor=white" alt="Moonlight Logger Repo" />
+  </a>
+  <img src="https://img.shields.io/badge/Node.js-18+-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node 18+" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+</p>
+
+<p>
+  <a href="https://github.com/atlasfernands/moonlight-logger/tree/main/backend" target="_blank">
+    <img src="https://img.shields.io/badge/Backend-Express%20%2B%20TypeScript-0A0A0A?style=for-the-badge" alt="Backend" />
+  </a>
+  <a href="https://github.com/atlasfernands/moonlight-logger/tree/main/frontend" target="_blank">
+    <img src="https://img.shields.io/badge/Frontend-React%20%2B%20Vite-0A0A0A?style=for-the-badge" alt="Frontend" />
+  </a>
+</p>
+
 ### 🛠️ Tecnologias que mais utilizo:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -66,13 +98,18 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e aprender novas
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🚀 Projeto Web Inovador</h3>
-      <p align="center">
-        Uma aplicação web moderna desenvolvida com React e Node.js, demonstrando habilidades em desenvolvimento full-stack.
+      <h3 align="center">🌙 Moonlight Logger</h3>
+      <p>
+        Sistema inteligente de logging para Node.js com análise automática, tempo real via Socket.IO e painel web dark inspirado na vibe "Filho da Lua".
       </p>
+      <ul>
+        <li>Captura e visualização em tempo real</li>
+        <li>Tags e sugestões automáticas</li>
+        <li>Stack: Node.js (TS), Express, MongoDB, Redis (BullMQ), Socket.IO, React, Tailwind</li>
+      </ul>
       <p align="center">
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/-Ver%20Projeto-000000?style=for-the-badge&logo=github&logoColor=white" width="120" alt="Ver Projeto">
+        <a href="https://github.com/atlasfernands/moonlight-logger" target="_blank">
+          <img src="https://img.shields.io/badge/-Ver%20Projeto-000000?style=for-the-badge&logo=github&logoColor=white" width="160" alt="Ver Projeto">
         </a>
       </p>
     </td>
