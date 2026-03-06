@@ -1,7 +1,7 @@
-﻿<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Olá,%20sou%20o%20Atlas!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full-Stack%20&%20Data%20Analyst&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Olá,%20sou%20o%20Atlas!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full-Stack%20&%20Data%20Analyst&descAlignY=55" />
 
 <div align="center">
-  <a href="https://github.com/atlasfernands">
+  <a href="https://github.com/atlasfernands" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
   <a href="https://linkedin.com/in/atlasfernands" target="_blank">
@@ -11,31 +11,31 @@
 
 <br/>
 
-###  Sobre Mim
-Sou um desenvolvedor apaixonado por **dados, música e interfaces intuitivas**. Minha especialidade é transformar métricas complexas em painéis de análise visualmente impactantes e responsivos. Gosto de atuar em todas as camadas de construção do software: desde o desenho da arquitetura e modelagem financeira/dados, até a experiência e fluidez da interface final.
+### 👨‍💻 Sobre Mim
+Sou um desenvolvedor apaixonado por **dados, música e interfaces intuitivas**. Minha especialidade é transformar métricas complexas em painéis de análise visualmente impactantes e responsivos. Gosto de atuar em todas as camadas da construção do software: desde o desenho da arquitetura e modelagem financeira/dados, até a fluidez extrema da interface final.
 
 ---
 
-###  Projeto em Destaque: Insight Artístico (Inteligência Artística)
+### 🚀 Projeto em Destaque: Insight Artístico (Inteligência Artística)
 **Uma plataforma SaaS inovadora focada na Indústria Musical**, rigorosamente desenhada para empresários e produtores monitorarem e extraírem análises contextuais de seus artistas através de uma UI impecável.
 
-####  Principais Funcionalidades Desenvolvidas:
+#### 💫 Principais Funcionalidades Desenvolvidas:
 - **Dashboard Dual-Axis de Alta Performance:** Renderização paralela de dados históricos de **Ouvintes Mensais e Streams Totais** utilizando Recharts + importação modular de CSV (Analytics de gravadoras) e cruzamento de eixos dinâmico.
 - **Motor de Integração Spotify Web API:** Extração em tempo real das Top Tracks do artista logado, puxando *Audio Features* proprietárias (Valência, Dançabilidade, Energia e BPM) para cruzamento de estilo e recomendação.
-- **Microinterações e Redução de CLS (Cumulative Layout Shift):** Orquestração avançada com **Framer Motion** (<AnimatePresence mode="wait">), eliminando qualquer engasgo visual no carregamento do SPA.
-- **Acessibilidade de Nível Comercial (WCAG 2 AA):** Escala de cores milimétrica baseada em classes do Tailwind com paletas customizadas de contraste rigoroso em tema Dark.
+- **Otimização Extrema (Zero CLS):** Redução completa de saltos de layout durante o carregamento. Orquestração com **Framer Motion** (`<AnimatePresence>`) para transições perfeitas em SPA.
+- **Acessibilidade Institucional (WCAG 2 AA):** Escala de cores milimétrica baseada em classes do Tailwind com paletas customizadas de contraste rigoroso em tema Dark UX.
 
-####  Core Tech Stack:
-| Arquitetura Frontend | Estrutura Backend | Ferramentas & Hospedagem |
+#### 🛠️ Tech Stack:
+| Node/Ecosystem | Backend e BD | Deploy & Arquitetura |
 | :--- | :--- | :--- |
-| **Next.js 15 (App Router)** | API Routes Next.js | **Vercel** (Deploy & Edge) |
-| **React 19** & Lucide Icons | **Supabase** (Auth & Storage) | Git & GitHub |
-| **Tailwind CSS** + Shadcn UI | Integração Spotify OAuth | ESLint & Prettier |
-| **Framer Motion** & Recharts | Node.js (Ambiente Server) | PowerShell/Node Tooling |
+| **Next.js 15 (App Router)** | API Routes Next.js | **Vercel** (Edge Network) |
+| **React 19** & Lucide | **Supabase** (Auth & Storage) | Serverless Functions |
+| **Tailwind CSS** + Shadcn | Integração Spotify OAuth | ESLint & Prettier |
+| **Framer Motion** & Recharts | **Python (Spotipy/Background)** | Git & GitHub |
 
 ---
 
-###  Minhas Ferramentas de Domínio
+### 🛠️ Tecnologias e Ferramentas Diárias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,python,postgres,supabase,nodejs,git,github,vscode,figma" />
@@ -43,13 +43,13 @@ Sou um desenvolvedor apaixonado por **dados, música e interfaces intuitivas**. 
 
 ---
 
-###  Minhas Estatísticas Open Source
+### 📈 Minhas Estatísticas Open Source
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atlasfernands&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&bg_color=0D1117" alt="Estatísticas do Atlas" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atlasfernands&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true&bg_color=0D1117" alt="Linguagens mais usadas" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atlasfernands&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&bg_color=0D1117" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atlasfernands&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true&bg_color=0D1117" height="160" />
 </div>
 
 <!--
-**atlasfernands/atlasfernands** is a  _special_  repository because its README.md (this file) appears on your GitHub profile.
+**atlasfernands/atlasfernands** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
