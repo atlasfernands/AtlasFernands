@@ -62,8 +62,8 @@ Tenho um interesse forte na proteção da informação e pentest. Um dos grandes
 ### 📈 Minhas Estatísticas Open Source
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atlasfernands&theme=tokyonight&hide_border=true&background=0D1117" height="160" alt="Estatísticas do GitHub" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atlasfernands&theme=tokyonight" height="160" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=atlasfernands&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&bg_color=0D1117" height="160" alt="Estatísticas do GitHub com Rank" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=atlasfernands&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true&bg_color=0D1117" height="160" alt="Linguagens mais usadas" />
 </div>
 
 <!--
